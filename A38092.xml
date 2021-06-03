@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The report of the commissioners apppointed by Parliament to enquire into the Irish forfeitures delivered to the honble House of Commons the 15th of December, 1699 : with their resolutions and addresses to His Majesty relating to those forfeitures : as also His Majesty's gracious answers thereunto and his most gracious speech to both Houses of Parliament the 5th of January, 1690.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 72KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38092</idno><idno type="EEBO-CITATION">9811838</idno>
+  <idno type="VID">44159</idno>
+  <idno type="EEBO-PROQUEST">2264207667</idno>
+  
+            <idno type="STC">Wing E2232</idno>
+            <idno type="STC">ESTC R27337</idno>
+            <idno type="OCLC">09811838</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44159)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1356:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The report of the commissioners apppointed by Parliament to enquire into the Irish forfeitures delivered to the honble House of Commons the 15th of December, 1699 : with their resolutions and addresses to His Majesty relating to those forfeitures : as also His Majesty's gracious answers thereunto and his most gracious speech to both Houses of Parliament the 5th of January, 1690.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by John Brocas,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published: London : Printed by Edw. Jones, 1700.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land tenure --  Ireland.</term>
+               <term type="geographic_name">Ireland --  History --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44159:1"/>
+            <pb facs="tcp:44159:1"/>
+            <p>THE REPORT OF THE <hi>Commissioners</hi> Appointed by PARLIAMENT To Enquire into the <hi>IRISH FORFEITURES,</hi> Deliver'd to the Hon<seg rend="sup">ble</seg>
+               <hi>House</hi> of <hi>Commons</hi> the 15<seg rend="sup">th</seg> of <hi>December,</hi> 1699.</p>
+            <p>WITH Their Resolutions and Addresses TO His MAJESTY Relating to those FORFEITURES.</p>
+            <p>AS ALSO His MAJESTY's Gracious Answers thereunto; AND His Most Gracious SPEECH to Both Houses of Parliament the 5<seg rend="sup">th</seg> of <hi>January,</hi> 1690.</p>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>Edw. Jones</hi> in the <hi>Savoy;</hi> And Re-Printed in <hi>Dublin,</hi> by <hi>John Brocas</hi> in <hi>School-House-Lane.</hi> 1700. Price Six Pence.</p>
+         </div>
+         <div type="orders_to_print">
+            <pb facs="tcp:44159:2"/>
+            <pb facs="tcp:44159:2"/>
+            <head>Lunae 8 die Aprilis. 1700.</head>
+            <p>Ordered,</p>
+            <p>
+               <hi>THAT the Report made to this House from the Com<g ref="char:EOLhyphen"/>missioners appointed to Enquire into the</hi> Irish <hi>Forfei<g ref="char:EOLhyphen"/>tures this Session of Parliament, be Printed, and that Mr. Speaker do appoint the Printer; and that no other do presume to Print the same.</hi>
+            </p>
+            <p>Ordered,</p>
+            <p>
+               <hi>That the two Resolutions of the Eighteenth of</hi> January <hi>last, relating to the Forfeited and other Estates in</hi> Ireland, <hi>be Re<g ref="char:EOLhyphen"/>printed with the said Report.</hi>
+            </p>
+            <p>Ordered,</p>
+            <p>
+               <hi>That the Resolution of the Fourth of</hi> April <hi>One Thousand Six hundred and Ninety, relating to the Forfeited Estates, be also Printed with the said Report.</hi>
+            </p>
+            <p>Ordered,</p>
+            <p>
+               <hi>That His Majesty's Gracious Speech to both Houses of Par<g ref="char:EOLhyphen"/>liament, the Fifth of</hi> January <hi>One Thousand Six Hundred and Ninety, be also Printed with the said Report.</hi>
+            </p>
+            <p>Ordered,</p>
+            <p>
+               <hi>That the Humble Address of this House to His Majesty the Fifteenth of</hi> February <hi>last, and His Majesty's Answer thereunto the Twenty Sixth of the same</hi> February, <hi>and the Resolution of this House thereupon, be also Reprinted with the said Report.</hi>
+            </p>
+            <closer>
+               <signed>Paul Jodrell, <hi>Cl' Dom' Com</hi>'</signed>
+            </closer>
+         </div>
+         <div type="order_to_print">
+            <pb facs="tcp:44159:3"/>
+            <head>Martis 9 die Aprilis. 1700.</head>
+            <opener>Ordered,</opener>
+            <p>THAT the Address of the <hi>House</hi> of <hi>Commons</hi> of the Fourth of <hi>March</hi> One thousand six hundred nine<g ref="char:EOLhyphen"/>ty two, and His <hi>MAJESTY</hi>'s Gracious Answer thereunto of the Tenth of the same <hi>March,</hi> be Printed with the Re<g ref="char:EOLhyphen"/>port from the Commissioners appointed to Enquire into the <hi>Irish</hi> Forfeitures.</p>
+            <closer>
+               <signed>Paul Jodrell, <hi>Cl' Dom' Com'</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb n="5" facs="tcp:44159:3"/>
+            <head>THE REPORT OF THE COMMISSIONERS Appointed to Enquire into The <hi>Irish</hi> Forfeitures, <hi>&amp;c,</hi>
+            </head>
+            <argument>
+               <p>To the Honourable the Knights, Citizens, and Burgesses in Parliament Assembled.</p>
+            </argument>
+            <opener>
+               <salute>May it please Your Honours.</salute>
+            </opener>
+            <p n="1">1. ACcording to the Powers given us by a late Act of Parliament, made in the Tenth and Eleventh Years of His Majesty's Reign, Entituled, <hi>An Act for Granting to His Majesty the Sum of One million four hundred eighty four thousand and fifteen Pounds one Shilling eleven Pence three Farthings, for Disbanding the Army, Providing for the Navy, and for other Necessary Occasi<g ref="char:EOLhyphen"/>ons;</hi> we have enquired into, and taken an Account of the Forfeited Estates in <hi>Ireland,</hi> and do humbly lay before your Honours this our following Report, as the Result of our Proceedings.</p>
+            <p n="2">2. But, first, we must humbly crave Leave to represent to your Honours the many Difficulties we have met with, which we fear may render our Enquiry less Satisfactory than otherwise it might have been.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:44159:4"/>3. It is usual for the General Governours of this Kingdom, when they are re<g ref="char:EOLhyphen"/>moved from their Employments, to carry away the Books and Papers relat<g ref="char:EOLhyphen"/>ing to their Proceedings during their Government, which we apprehead may have been some hinderance to our Enquiry.</p>
+            <p n="4">4. Soon after the Battle of the <hi>Boyne,</hi> Commissioners of Forfeitures were appointed under the Great Seal of <hi>Ireland,</hi> who substituted Commissioners in the several Counties of this Kingdom, then in His Majesty's Possession; These Sub-Commissioners acted very Vigorously, and made returns of great Quan<g ref="char:EOLhyphen"/>ties of Goods Forfeited, but several of these Books we were not able to get, which was a great disadvantage to our Proceedings; these Returns having been made whilst the Mischiefs were fresh, and the Resentments high between Protestant and Papist, and consequently with less favour than hath been since shewn.</p>
+            <p n="5">5. Many Commissions for taking Inquisitions have Issued both from the <hi>Chancery</hi> and <hi>Excheques</hi> that are not sped, and many others have been Imper<g ref="char:EOLhyphen"/>fectly taken, and worse drawn up, and some have never been returned, nor so much as the Records made up by the Escheator.</p>
+            <p n="6">6. Great Quantities of Lands found in the Inquisitions, have not been put in Charge to His Majesty, nor appear in the Rent-Rolls, and many Denomi<g ref="char:EOLhyphen"/>nations appear in the Rent-Rolls, of which no Inquisitions were taken, and a great many other Parcels of Lands are mentioned in the Grants, which are neither found in the Inquisitions or Rent-Rolls, and some in the Sub-Com<g ref="char:EOLhyphen"/>missioners Returns that are found no where else; and there may be many more of which we can trace no Footsteps.</p>
+            <p n="7">7. As we cannot complain to your Honours of any direct Disobedience to our Authority, so we must take Notice, that we had from few Offices that Dispatch which was necessary to the Work we had the Honour to be em<g ref="char:EOLhyphen"/>ployed in; but whether this proceeded from any Unwillingness to obey us, the Multitude of other Business, or the Irregular Methods of keeping their Books, we do not affirm.</p>
+            <p n="8">8. Particularly the Books of the Commissioners of the Revenue relating to the Forfeitures, are so ill and confusedly kept, as much delayed us in our proceedings; but this we do not attribute so much to the Commissioners of the Revenue, as to the shifting this Enquiry from one Commission to ano<g ref="char:EOLhyphen"/>ther, which has been done five times since the Battel of the <hi>Boyne;</hi> so that no Commissioners, if they were disposed to it, have been able to take any sted<g ref="char:EOLhyphen"/>dy View of the Forfeitures and digest them into method.</p>
+            <p n="9">9. By this means we have been forced to examine such Bundles of Records and Volumes of other Papers as have taken up much of that time, which might otherwise have been employed in the Examination of the Values, and enquiring into the Mismanagement of the Forfeitures, which appear to us ve<g ref="char:EOLhyphen"/>ry
+<pb n="7" facs="tcp:44159:4"/> great; tho' by the Distance of time, the Agreement of Parties concerned, the Death of some, and the Departure of others out of the Kingdom, most of the Tracks are worn out, so that we found it very difficult, and in many Cases impossible, to come at a true Information.</p>
+            <p n="10">10. Besides this, there appeared to us a very great backwardness in the Peo<g ref="char:EOLhyphen"/>ple of this Kingdom to give any Information, which in our humble Opinion, does not proceed from any dislike to the business of our Commission, or dis<g ref="char:EOLhyphen"/>obedience to the Authority that sent us, but from the fear of the Grantees, and the Persons in Power, whose Displeasure in this Kingdom is not eas<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orne. Besides, Reports seem'd to us, to have been industriously spread a<g ref="char:EOLhyphen"/>broad, and generally believed, That our Enquiry would come to nothing. and was only the Effect of a sudden Resolution, which hindred many Persons from making considerable Discoveries; But we humbly conceive, if such Fears were removed, the Forfeitures would appear much greater.</p>
+            <p n="11">11. Added to all these Difficulties, our Business it self was so very Volumi<g ref="char:EOLhyphen"/>nous, and consisted of so many Parts, that an exact Scrutiny into all the Parti<g ref="char:EOLhyphen"/>culars could not have been made, in a much longer time than we were con<g ref="char:EOLhyphen"/>fined to. But such an Account as under these Disadvantages we were able to acquire, we do with all humility lay before your Honours.</p>
+            <p n="12">12. The Persons out-Lawed in <hi>England</hi> since the 13th day of <hi>February</hi> 1688, on Account of the late Rebellion here, amount in number to 57, and in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> to 3921; all which, with their Additions and Counties in which they were out-Lawed, appear in a Book delivered in with this Report, <hi>Number</hi> 1.</p>
+            <p n="13">13. The Estates that the said Persons, or any of them were possessed of or interessed in, either in Law or Equity, since the 13th day of <hi>February</hi> 1688, that came to our knowledge; together with the Proprietors Names, the num<g ref="char:EOLhyphen"/>ber of Acres, the County and Barony in which they lie, the Value of them <hi>per Annum</hi> and the total Value, appear in a Book delivered in with this Re<g ref="char:EOLhyphen"/>port, N<seg rend="sup">o</seg> 2.</p>
+            <p n="14">14. But the gross Number of all the Acres belonging to Forfeiting Persons in each County, the yearly and total Value, esteeming a Life at 6 Years pur<g ref="char:EOLhyphen"/>chase, and an Inheritance at 13 Years; which we apprehend to be at this time the value of the Lands of this Kingdom, appear to us to be as follows: <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Acres Pro<g ref="char:EOLhyphen"/>fitable.</cell>
+                     <cell cols="3">Value <hi>per ann.</hi>
+                     </cell>
+                     <cell cols="3">Total Value.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>A.</hi>
+                     </cell>
+                     <cell>
+                        <hi>R.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Dublin</hi>
+                     </cell>
+                     <cell>34546</cell>
+                     <cell>0</cell>
+                     <cell>16061</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                     <cell>208796▪</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Meath</hi>
+                     </cell>
+                     <cell>92452</cell>
+                     <cell>1</cell>
+                     <cell>31546</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>410100</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Wt. Meath</hi>
+                     </cell>
+                     <cell>58083</cell>
+                     <cell>1</cell>
+                     <cell>14633</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>190237</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="8" facs="tcp:44159:5"/>In the County of <hi>Kildare</hi>
+                     </cell>
+                     <cell>44281</cell>
+                     <cell>1</cell>
+                     <cell>16551</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                     <cell>215175</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Catherlogh</hi>
+                     </cell>
+                     <cell>26303</cell>
+                     <cell>0</cell>
+                     <cell>7913</cell>
+                     <cell>11</cell>
+                     <cell>6</cell>
+                     <cell>95872</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Wicklow</hi>
+                     </cell>
+                     <cell>18164</cell>
+                     <cell>0</cell>
+                     <cell>2719</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>35348</cell>
+                     <cell>19</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Wexford</hi>
+                     </cell>
+                     <cell>55882</cell>
+                     <cell>2</cell>
+                     <cell>7551</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell>98169</cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>Queens</hi> County</cell>
+                     <cell>22657</cell>
+                     <cell>0</cell>
+                     <cell>5002</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>65031</cell>
+                     <cell>13</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>Kings</hi> County</cell>
+                     <cell>30459</cell>
+                     <cell>3</cell>
+                     <cell>6870</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                     <cell>89321</cell>
+                     <cell>14</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Kilkenny</hi>
+                     </cell>
+                     <cell>30152</cell>
+                     <cell>2</cell>
+                     <cell>5243</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>68161</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Longford</hi>
+                     </cell>
+                     <cell>2067</cell>
+                     <cell>2</cell>
+                     <cell>348</cell>
+                     <cell>9</cell>
+                     <cell>9</cell>
+                     <cell>4530</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Louth</hi> and Town of <hi>Drogheda</hi>
+                     </cell>
+                     <cell>22508</cell>
+                     <cell>0</cell>
+                     <cell>6331</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>82310</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Cork</hi>
+                     </cell>
+                     <cell>244320</cell>
+                     <cell>0</cell>
+                     <cell>32133</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>417737</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Kerry</hi>
+                     </cell>
+                     <cell>90116</cell>
+                     <cell>0</cell>
+                     <cell>3652</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                     <cell>47483</cell>
+                     <cell>12</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Clare</hi>
+                     </cell>
+                     <cell>72246</cell>
+                     <cell>0</cell>
+                     <cell>12060</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>156791</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Waterford</hi>
+                     </cell>
+                     <cell>21343</cell>
+                     <cell>0</cell>
+                     <cell>4190</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>54476</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Limerick</hi>
+                     </cell>
+                     <cell>14882</cell>
+                     <cell>3</cell>
+                     <cell>4728</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>61470</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Tipperary</hi>
+                     </cell>
+                     <cell>31960</cell>
+                     <cell>3</cell>
+                     <cell>8888</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>115552</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Galway</hi>
+                     </cell>
+                     <cell>60825</cell>
+                     <cell>0</cell>
+                     <cell>10225</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell>83528</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Roscommon</hi>
+                     </cell>
+                     <cell>28933</cell>
+                     <cell>0</cell>
+                     <cell>5808</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>69767</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Mayo</hi>
+                     </cell>
+                     <cell>19294</cell>
+                     <cell>0</cell>
+                     <cell>3186</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>37598</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Sligo</hi>
+                     </cell>
+                     <cell>5562</cell>
+                     <cell>2</cell>
+                     <cell>998</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                     <cell>12985</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Antrim</hi>
+                     </cell>
+                     <cell>10103</cell>
+                     <cell>3</cell>
+                     <cell>1944</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                     <cell>25284</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Down</hi>
+                     </cell>
+                     <cell>9079</cell>
+                     <cell>0</cell>
+                     <cell>1016</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>13212</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Ardmagh</hi>
+                     </cell>
+                     <cell>4962</cell>
+                     <cell>0</cell>
+                     <cell>588</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>7644</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Cavan</hi>
+                     </cell>
+                     <cell>3830</cell>
+                     <cell>1</cell>
+                     <cell>478</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>6222</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Monoghan</hi>
+                     </cell>
+                     <cell>3832</cell>
+                     <cell>0</cell>
+                     <cell>558</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>7264</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Fermanagh</hi>
+                     </cell>
+                     <cell>1945</cell>
+                     <cell>0</cell>
+                     <cell>389</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>5057</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>All the Lands in the several Counties aforesaid, as far as we can Reckon by Acres, being added together, make 1060792 Acres; Worth <hi>per Annum, 211623 l. 6s. 3d.</hi> Value total, 2685130 <hi>l.</hi> besides the several Denominations in the said several Counties, to which no number of Acres can be added, by reason of the Imperfection of the Surveys not here Valued, which we humbly represent to your Honours, as the Gross Value of all the Lands Forfeited in <hi>Ireland,</hi> since the 13th day of <hi>February,</hi> 1688.</p>
+            <p n="15">15. Next we think it our Duty, to acquaint your Honours what Proportions of these Lands have been Restored to the Old Proprietors, by Vertue of the Articles of <hi>Lymerick</hi> and <hi>Galway,</hi> and by His Majesty's Favour.</p>
+            <p n="16">16. Three Letters, One from her late Majesty Queen <hi>Mary,</hi> of ever blessed Memory, Dated the 15th day of <hi>March</hi> 1691, To the Right Honourable the Lord <hi>Sidney,</hi> Sr. <hi>Charles Porter</hi> Kt. and <hi>Thomas Connings by</hi> Esq; then Lords Justices and Chief Governors of this Kingdom; One other Letter, from Her
+<pb n="9" facs="tcp:44159:5"/> said late Majesty, Dated the 6th day of <hi>May,</hi> 1693, to the said Lord Viscount <hi>Sidney,</hi> then Lord Lieutenant, and General Governour of this Kingdom, and to the Privy Council there for the time being; And One other Letter from His Majesty, Dated the 24th day of <hi>April</hi> 1694 To the Right Honourable <hi>Henry</hi> Lord <hi>Caple,</hi> Sr. <hi>Cyrill Witch</hi> Kt. and <hi>William Duncumbe</hi> Esq; then Lords Justices of this Kingdom, and to the Privy Council there for the time being, were severally sent to them, Impowering them to Hear and Determine the Claims of all Persons, pretending to be within the Articles of <hi>Lymerick</hi> and <hi>Galway,</hi> and in pursuance of the said Letters, 491. Persons were Adjudged within the Articles aforesaid, the Names of which Persons with their Ad<g ref="char:EOLhyphen"/>ditions, and the time of their Adjudications, appear in a Book delivered in with this Report. N<seg rend="sup">o</seg>. 3.</p>
+            <p n="17">17. Afterwards a Commission Dated the 25th day of <hi>February,</hi> in the Eighth Year of His Majesty's Reign, passed under the Great Seal of <hi>Ireland,</hi> Impower<g ref="char:EOLhyphen"/>ing the Judges of the several Courts here, or any Five of them, to Hear and Determine the Claims aforesaid: and in pursuance of that Commission 792. Persons were Adjudged within the Articles aforesaid, the Names of which Per<g ref="char:EOLhyphen"/>sons with their Additions, and the times of their Adjudications, appear in a Book delivered in with this Report. N<seg rend="sup">o</seg>. 4.</p>
+            <p n="18">18. The Estates that the Persons have been Restored to, by Virtue of their Adjudications, contain 233106 Acres of Land, amounting in the Yearly value to 55763 <hi>l. 6 s. 6 d.</hi> Value total, 724923 <hi>l. 4 s. 6 d.</hi> the particular Number of Acres belonging to Persons Adjudged, the County and Barony in which they lie, with the Yearly Value, and what the whole Interest is worth, appears in the Book. N<seg rend="sup">o</seg>. 2.</p>
+            <p n="19">19. And here we presume not to judge whether the said Letters from His Ma<g ref="char:EOLhyphen"/>jesty or the late Queen, to the Lords Justices and Council, or the Commission under the Great Seal to the Judges, did give them any Legal Authority to Sum<g ref="char:EOLhyphen"/>mon the Subjects from all Parts of the Kingdom, give Oaths, Adjudge without Jury, and Levy Money under the Name of Fees; we finding no Act of Parli<g ref="char:EOLhyphen"/>ament to Warrant the same. We humbly submit to your great Wisdom.</p>
+            <p n="20">20. Further we think it necessary to Inform your Honours, That the Fees in the said Courts were so Extravagant, That Mr. <hi>Palmer,</hi> who▪ Acted as Register in the Right of Mr. <hi>Poul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ney,</hi> and divided the Profits with him, Demanded of Mr. <hi>Luke Dillon</hi> for the Fees, for his Father's Adjudication, Eighty Six Pounds, and Mr. <hi>Steel,</hi> Cryer of the said Court, Fifteen Pounds more: Nor could Mr. <hi>Dil<g ref="char:EOLhyphen"/>lon</hi> get out the Order to Reverse his Father's Outlawry, till he paid Fifty two Pounds in ready Money to Mr. <hi>Palmer,</hi> and gave him his Bond for Fourteen Pounds more, and had paid Mr. <hi>Steel</hi> Five Pounds, besides Ten Pounds which he paid Mr. <hi>Palmer</hi> before for Orders; the Cause being continued in the Court near Two Years: Nor was this a single Case, for many more have paid great Sums of Money upon the like Account, the Charge only of Entring a Claim, before we Acted in our Commission, being near Five Pounds, tho' by express
+<pb n="10" facs="tcp:44159:6"/> Words of the Articles of <hi>Lymerick,</hi> no Person ought to pay any Fees, but to writing Clerks only.</p>
+            <p n="21">21. We may add to this, that the Proceedings of the last Court of Claims, are almost universally Complained of, and we fear with too much Reason, some Persons having been Adjudged without Posting of their Claims, others within a Day or Two after, before the King's Councel or Witnesses could be ready, which was contrary to the Rules of the Court it self, that required 14 Days, between the Posting of every Claim and the Adjudication. It was also observa<g ref="char:EOLhyphen"/>ble, That if any Person would Disclaim his Estate, he met with very little dif<g ref="char:EOLhyphen"/>ficulty in being Adjudged, tho' afterwards there could be no Obstacle to the Reversing his Outlawry, and consequently to be restored to his Estate. In gene<g ref="char:EOLhyphen"/>ral, it seems to us, that there has been great Miscarriages in the said Court, and that in many Cases, the Articles of <hi>Lymerick</hi> and <hi>Gallway</hi> have been Expounded too Beneficially in Favour of Persons Outlawed, and often the Oath of one Wit<g ref="char:EOLhyphen"/>ness, who we humbly conceive, cannot be Convicted for Perjury either by Common or Statute Law: By this means we apprehend, a great many Persons have been adjudged and restored to their Estates, that upon review would be found to belong to His Majesty; to come to a more particular knowledge of which, we sent Mr. <hi>Palmer</hi> for the Minutes of the Adjudications, but he ha<g ref="char:EOLhyphen"/>ving taken them in short-hand only, and never since Transcribed them, we could not get such an Account as was fit to lay before your Honours: We shall only take notice of one thing on this occasion, that seems to us very extraor<g ref="char:EOLhyphen"/>dinary, That more Persons were Adjudged within Articles since the commence<g ref="char:EOLhyphen"/>ment of our Enquiry, than had been since the making the said Articles.</p>
+            <p n="22">22. Next, we are to acquaint your Honours what Estates have been restored to the Old Proprietors, by Reversal of Outlawries or His Majesty's Pardon.</p>
+            <p n="23">23. The Reversals are of Two sorts, such as have been in pursuance of Ad<g ref="char:EOLhyphen"/>judications, all mark'd in N<seg rend="sup">o</seg> 3. and 4. in distinct Columns for that purpose; The Estates restor'd by the said Reversals, are already computed under the Consideration of Persons adjudged.</p>
+            <p n="24">24. The other sort are such as have been Reversed by His Majesty, or the late Queen's Letters or Orders to the Lords Justices, which with all Pardons and the Considerations inducing the same past, since the Defeat at the <hi>Boyne,</hi> amounting to Sixty five, and appear in a Book delivered in with this Re<g ref="char:EOLhyphen"/>port, N<seg rend="sup">o</seg> 5. The Estates restored to the several Persons pardoned, or that have Reversed their Outlawries by His Majesty's Favour, contain 74733 Acres, worth <hi>per Ann. 20066 l. 8 s. 3d.</hi> Value Total 260863 <hi>l. 7 s. 3 d.</hi> The particu<g ref="char:EOLhyphen"/>lars thereof, what Estates belong to such Persons, in what County and Ba<g ref="char:EOLhyphen"/>rony it lies, what is the Yearly and Total Value, appear in the Book, N<seg rend="sup">o</seg> 2.</p>
+            <p n="25">25. And here we think it proper to take notice to your Honours, That as well by the General Report of the Country, as by several Observations of our own, it appears probable to us that many of the Persons aforesaid, have ob<g ref="char:EOLhyphen"/>tain'd
+<pb n="11" facs="tcp:44159:6"/> His Majesty's Favour by Gratifications to such Persons as have abused His Majesty's Royal Compassion. But when we touch'd on this Subject, we found Difficulties too great to be overcome; most of these matters being Transacted in Private, and with Persons out of this Kingdom; however, we shall lay before your Honours some Instances, where it appears to us that Money has been given to restore Persons Forfeiting to their Estates.</p>
+            <p n="26">26. The Rt. Hon. the Lord <hi>Bellew</hi> released a Statute-Staple of 1000 <hi>l.</hi> Prin<g ref="char:EOLhyphen"/>cipal Money, and 7 or 800 Pounds Interest to the Lord <hi>Raby,</hi> (which was due from Sir <hi>William Wentworth,</hi> Father to the present Lord <hi>Raby,</hi> to the Lord <hi>Duleek,</hi> Father to the present Lord <hi>Bellew</hi>) in Consideration that he would use his Interest with His Majesty to procure his Pardon, which he did accordingly, and his Pardon soon after passed; He also released to the Lord <hi>Romney</hi> all the Profits of his Estate which his Lordship had enjoyed near 3 Years, amounting to about as many Thousand Pounds, in Consideration his Lordship would not give him any Molestation in passing his Pardon.</p>
+            <p n="27">27. <hi>John Kerdiff,</hi> of <hi>Kerdiff</hi> Town in the County of <hi>Dublin,</hi> Gent. gave to Mrs. <hi>Margaret Uniack 200 l.</hi> or thereabouts, to make use of her Interest with the Lord <hi>Romney</hi> to obtain His Majesty's Letter to have his Outlawry Rever<g ref="char:EOLhyphen"/>sed, which was accordingly done, tho' the particular Case of this Man as ap<g ref="char:EOLhyphen"/>peared to us, deserved Compassion.</p>
+            <p n="28">28. Sir <hi>John Morris</hi> paid to Mr. <hi>Richard Uniack 500 l.</hi> whereof 300 <hi>l.</hi> was paid to Mrs. <hi>Margaret Uniack,</hi> for her Interest in the Lord <hi>Romney</hi> to procure his Pardon, which was accordingly done.</p>
+            <p n="29">29. <hi>Harvey Morris</hi> Esq; gave 100 <hi>l.</hi> to Mrs. <hi>Margaret Uniack</hi> to obtain His Ma<g ref="char:EOLhyphen"/>jesty's Pardon, which was accordingly done.</p>
+            <p n="30">30. <hi>John H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssey</hi> of <hi>Leslip</hi> Esq; upon his being informed by Mr. <hi>Bray</hi> and Mr. <hi>Roscoe,</hi> Agents to the Lord <hi>Athlone,</hi> That he could not get his Outlawry Re<g ref="char:EOLhyphen"/>versed without giving a General Release of all Demands to the Lord <hi>Athlone,</hi> which he did, whereby a Mortgage of 300 <hi>l.</hi> which he had on the Lord <hi>Lymerick</hi>'s Estate, then in Grant to the Lord <hi>Athlone,</hi> was Released, who appears not to us to have known of the said Mortgage, or had any Benefit thereby.</p>
+            <p n="31">31. <hi>Edmund Roch</hi> Gent. gave to Mr. <hi>Richard Darling,</hi> Agent to the Lord <hi>Rom<g ref="char:EOLhyphen"/>ney, 500 l.</hi> for his Interest in procuring his Pardon, which by the Means of the Lord <hi>Romney</hi> was obtained, as we believe; But the said <hi>Roch</hi> was Out<g ref="char:EOLhyphen"/>lawed on the Statute of Foreign Treasons, tho' never out of the Kingdom.</p>
+            <p n="32">32. <hi>John Boark</hi> Esq; commonly called Lord <hi>Bophin,</hi> agreed to pay 7500 <hi>l.</hi> to Mr. <hi>Andrew Card</hi> for the use of the Lord <hi>Albermarle,</hi> in Consideration he would procure His Majesty's Letter to have him Restored to his Estate and Blood: 3000 <hi>l.</hi> of the said Sum was to be paid when he was Restored to his Estate, and the residue sometime after. In pursuance of the said Agreement,
+<pb n="12" facs="tcp:44159:7"/> a Letter was sent to the Lords Justices to be communicated to the Commis<g ref="char:EOLhyphen"/>sioners of the Court of Claims in favour of the Lord <hi>Bophin,</hi> in order to have him Adjudged within the Articles of <hi>Galway;</hi> but nothing being done there<g ref="char:EOLhyphen"/>on, it was agreed, That a Bill should be transmitted into <hi>England,</hi> in order to pass into a Law in <hi>Ireland</hi> to Restore the Lord <hi>Bophin</hi> to his Estate and Blood; the Consideration suggested in the Bill was, to Educate his Children in the Protestant Religion, and to Set his Estate to Protestants. It was further provided in the said Bill, That 9000 <hi>l.</hi> should be raised upon the said Estate for Payment of Debts, and a certain part of the said Estate appropriated for the Maintenance and Pro<g ref="char:EOLhyphen"/>vision for the Children; but in reality, 7500 <hi>l.</hi> of the said Money was to be paid to the Earl of <hi>Albermarle,</hi> and the remainder as we believe, to the other Per<g ref="char:EOLhyphen"/>sons concerned in Negotiating the said Agreement. This Bill was brought into the House of Commons of <hi>Ireland,</hi> but the Agreement taking wind, and the House resenting that their Authority should be made use of to support such a Clandestine Bargain, and finding several Allegations in the Bill false, they rejected it. Afterwards a New Agreement was made, (<hi>viz.</hi>) That there should be a Grant to the Lord <hi>Ross</hi> in Trust, That the Money to be Advanced for procuring the said Grant, should be first raised out of the Estate; and next, That the Profits should be applied to the Payment of Debts, and after to the use of the Family of <hi>Clanrickard.</hi> In pursuance of the Agreements a<g ref="char:EOLhyphen"/>foresaid. a Letter was procured from His Majesty, and 3000 <hi>l.</hi> paid to <hi>Thomas Broderick</hi> Esq; for the Benefit of the Lord <hi>Albermarle.</hi>
+            </p>
+            <p n="33">33. Having now laid before your Honours an Account of all the Estates be<g ref="char:EOLhyphen"/>longing to Persons Outlawed since the 13th Day of <hi>February,</hi> 1688. and also what Estates have been since Restored by Articles, and what by His Majesty's Favour; we will proceed to acquaint your Honours what Grants have been made, and also what <hi>Custodiams</hi> are yet in being of any of the said Estates, and to whom.</p>
+            <p n="34">34. There have passed since the Battel of the <hi>Boyne</hi> under the Great Seal of <hi>Ireland</hi> Seventy six Grants and <hi>Custodiams</hi> now in being, a Book whereof, with the Dates of the Letters Patents, and Considerations, we have delivered in with this Report, N<seg rend="sup">o</seg> 6. Some of the most Considerable Grants we here particularly lay before your Honours, with the number of Acres and Considerations.</p>
+            <p n="35">35. To the Right Honourable the Lord <hi>Romney</hi> Three Grants now in being, containing 49517 Acres, the Consideration, Services done.</p>
+            <p n="36">36. To the Right Honourable the Earl of <hi>Albemarle</hi> Two Grants now in be<g ref="char:EOLhyphen"/>ing, containing 108633 Acres, in Possession and Reversion, Consideration, Ser<g ref="char:EOLhyphen"/>vices done.</p>
+            <p n="37">37. To <hi>William Bentink</hi> Esq; commonly called Lord <hi>Woodstock</hi> 135820 Acres of Land, no particular Consideration mentioned in the Grant.</p>
+            <p n="38">38. To the Right Honourable the Earl of <hi>Athlone</hi> Two Grants, containing 26480 Acres, Consideration, Services done in the Reduction of <hi>Ireland,</hi> which Grants are since Confirmed by an Act of the Parliament of <hi>Ireland.</hi>
+            </p>
+            <p n="39">
+               <pb n="13" facs="tcp:44159:7"/>39 To the Right Honourable the Earl of <hi>Gallway</hi> One Grant, containing 36148 Acres, Consideration, many good and faithful Services by him performed.</p>
+            <p n="40">40. To the Right Honourable the Earl of <hi>Rochford</hi> Two Grants, containing 39871 Acres, Consideration, Services done.</p>
+            <p n="41">41. To the Marquis of <hi>Puizar</hi> Two Grants, containing 30512 Acres, Con<g ref="char:EOLhyphen"/>sideration, Services done.</p>
+            <p n="42">42. To the Right Honourable the Lord <hi>Conningsby</hi> 5966 Acres, with several Chiefries, Tythes, and many Houses in the City of <hi>Dublin,</hi> with 1000 <hi>l.</hi> Mortgage; Consideration, Services done.</p>
+            <p n="43">43. To the Right Honourable the Lord <hi>Mountjoy</hi> 11070 Acres, for 21 Years, in Consideration of his Services in the War of <hi>Ireland,</hi> the Losses he suffered in his Estate, the Imprisonment of his Father in the <hi>Bastile,</hi> and his being Kill'd in the Battle of <hi>Steynkirk.</hi>
+            </p>
+            <p n="44">44. To the Honourable <hi>Thomas Keightley</hi> Esq; Two Grants containing 12381 Acres for 99 Years, as a Portion for his Daughter Mrs. <hi>Katherine Keightley,</hi> who was dependant on Her late Majesty Queen <hi>Mary</hi> of ever blessed Memory; and in Consideration of a Pension of 400 <hi>l. per Ann.</hi> and his Losses by the War.</p>
+            <p n="45">45. To Colonel <hi>Gustavus Hamilton</hi> 5382 Acres, whereof 1900 are no part of the Forfeitures: Consideration, his great and early Services in the War of <hi>Ireland,</hi> his Wading through the <hi>Shannon,</hi> and Storming the Town of <hi>Athlone</hi> at the Head of the <hi>English</hi> Granadeers.</p>
+            <p n="46">46. To Dr. <hi>John Lesly</hi> 16077 Acres: Consideration, his early Services in the War of <hi>Ireland,</hi> his great Expence in Raising and Arming considerable Numbers of Men, and Fighting at the Head of them in several Engagements.</p>
+            <p n="47">47. To <hi>Thomas Pendergrass</hi> Esq; now Sir <hi>Thomas Pendergrass</hi> Baronet, Two Grants, containing 7082 Acres upon the most valuable Consideration of his great Services in discovering a most Barbarous and Bloody Conspiracy to Assassinate the King's most Excellent Majesty, to Destroy the Liberties of <hi>England,</hi> and in consequence the Protestant Religion throughout <hi>Europe.</hi>
+            </p>
+            <p n="48">48. To Mr. <hi>John Baker</hi> 1647 Acres, in Consideration of the Great and Me<g ref="char:EOLhyphen"/>morable Services his Father Colonel <hi>Henry Baker</hi> performed in the defence of the City of <hi>Londonderry.</hi>
+            </p>
+            <p n="49">49. To <hi>James Corry</hi> Esq; Two Grants; one of a Mortgage of Two Thousand Pounds, in Fee, of several Lands in the County of <hi>Wicklow,</hi> due to Sir <hi>Edward Scot</hi> from the Earl of <hi>Tyrone;</hi> the other of 1725 Acres. The Considerations mentioned in the Letters Patents, are his House being Burnt, and his having Furnished the Garrison of <hi>Iniskilling</hi> with Provisions and Materials to the value
+<pb n="14" facs="tcp:44159:8"/> of 3000 <hi>l.</hi> at his own Expence. But enquiring into the Merits of this Gentle<g ref="char:EOLhyphen"/>man, it appeared to us, That he gave no Assistance to the Garrison of <hi>Iniskilling.</hi> That in the Town of <hi>Iniskilling</hi> he publickly declared, he hoped to see all those Hang'd that took up Arms for the Prince of <hi>Orange;</hi> and his House was Burnt by the said Garrison.</p>
+            <p n="50">50. The rest of the Grants with the former, appear in the said Book, Numb. 6. and are comprehended in the General Values.</p>
+            <p n="51">51. It is to be observed, that all Acres mentioned in this Report, are meant Plantation-Acres, which bear a proportion to <hi>English</hi> Acres, as 441 is to 264.</p>
+            <p n="52">52. It is further to be observed, That the Estates above-mentioned, do not yield so much to the Grantees as they are here valued at; for as most of them have abused His Majesty in the real Value of their Estates, so their Agents have imposed on them, and have either sold or let the greatest part of these Lands at a great Undervalue.</p>
+            <p n="53">53. We are further to take notice, That most of the Lands in the several Grants aforesaid, were granted under the <hi>Exchequer</hi> Seal <hi>in Custodiam,</hi> for small num<g ref="char:EOLhyphen"/>bers of Years, or during Pleasure, either to the present Grantees, or other Persons; by which means very little Profit has accrued to His Majesty; the greatest part of the <hi>Custodiams</hi> are now expired, but those few yet in being, appear in a Book at the lower end of the Grants. Numb. 6.</p>
+            <p n="54">54. In the next place we shall humbly acquaint your Honours with the se<g ref="char:EOLhyphen"/>veral Incumbrances that affect the Estates Forfeited and not Restored: And here we shall take notice of such only as are found by Inquisition, or have been allowed by His Majesty's Court of Exchequer; most of which last have been in pursuance of Her late Majesty's Letter, dated to the Lords Justices of <hi>Ireland;</hi> which required that all Protestants should try the Validity of their Incumbrances in the most speedy manner, without sub<g ref="char:EOLhyphen"/>jecting them to dilatory and chargeable Methods.</p>
+            <p n="55">55. All Statutes, Judgments, Mortgages, or other Debts, which appear to us as aforesaid to affect the said Estates not restored, amount to 161936 <hi>l. 15c. 6d.</hi> The particulars whereof appear in a Book delivered in with this Report, N<seg rend="sup">o</seg> 7.</p>
+            <p>The reality of the said Incumbrances, which of them have been made upon a Valuable Consideration, and what have been since discharged by receipt of Rents, or otherwise, we have had neither Time or Opportunity duly to Ex<g ref="char:EOLhyphen"/>amine. But we Humbly conceive there are many very great Deductions to be made, upon the following Considerations.</p>
+            <p n="56">56. In all Judgments and Statutes we have set down the penal Sums; not be<g ref="char:EOLhyphen"/>ing able to know what Interest is due on the several Particulars.</p>
+            <p n="57">
+               <pb n="15" facs="tcp:44159:8"/>57. It appears probable to us, that oftentimes the Judgment and Mortgage is the same Debt.</p>
+            <p n="58">58. It is probable, that many of the said Judgments are only for the Per<g ref="char:EOLhyphen"/>formance of Covenants; and the Defeazances remain in the Hands of the Covenanters.</p>
+            <p n="59">59. In many Cases Protestants and Papists have been equally bound; and the whole Debt is demanded on the Lands of the Forfeiting Person, though there may be other Security.</p>
+            <p n="60">60. It does appear that many Deeds and Copies of Judgments were pro<g ref="char:EOLhyphen"/>duced to the Juries on several Enquiries, and found without any Proof of the Execution of such Deeds, or the Considerations therein Expressed.</p>
+            <p n="61">61. It is probable, that in many Cases, the Statutes and Judgments have been satisfied, and do not appear discharged upon Record.</p>
+            <p n="62">62. Many Incumbrances have been bought up by the Grantees, their Agents, and Under-Purchasers, and oftentimes at small Values, and are kept on foor to cover their Estates, though probably they might have over-paid themselves by the Perception of Profits.</p>
+            <p n="63">63. Many Persons have been put in Possession of the Lands Incumbred, by Virtue of Her Majesty's Letter, and have received all, or a great part of their Debts.</p>
+            <p n="64">64. It is probable, that several of the Incumbrances have been taken in trust for Forfeiting Persons, and many others were entred into Covenously.</p>
+            <p n="65">65. In Conclusion, it appears to us that there are all the Contrivances pos<g ref="char:EOLhyphen"/>sible made use of by some of the Grantees, and their Agents, to make the Incumbrances appear great; though we believe if they were duly enquired into, they would not be found so considerable, but that a great part of them might have been paid off by the Perception of Profits before this time: How<g ref="char:EOLhyphen"/>ever, we humbly conceive that at present they will be much more than discharged by the Personal and other Forfeitures not before valued: Which we now Humbly lay before your Honours.</p>
+            <p n="66">66. As we Informed your Honours before, soon after the Battel of the <hi>Boyne,</hi> Commissioners under the Great Seal of <hi>Ireland</hi> were appointed, who had power to seize and dispose of the Forfeited Goods and Chattels to His Majesty's use. These appointed Sub-Commissioners in the several Counties then in His Ma<g ref="char:EOLhyphen"/>jesty's Possession; who made Returns of great Quantities of Goods and Chattels, which they valued at 135552 <hi>l.</hi> but at so moderate Computations, that every Horse was Valued at Twenty Shillings, every Cow or Oxe at <hi>15s.</hi> Sheep at Half a Crown a piece, and other things proportionable. So that it
+<pb n="16" facs="tcp:44159:9"/> appears very probable to us, that if the said Goods had been disposed of to the best advantage, they might have yielded between Two and Three Hun<g ref="char:EOLhyphen"/>dred Thousand Pounds. But before that could be done, upon Representation of the then Commissioners of the Revenue, the Power of disposing by the said Commissioners of Forfeitures, was superceded by a Letter from His Ma<g ref="char:EOLhyphen"/>jesty within Nine days after the Granting their Commission; and placed in the Commissioners of the Revenue. By this means so much time was lost, before their Books and Goods seized by the Sub-Commissioners could be Trans<g ref="char:EOLhyphen"/>ferred to the Officers of the Revenue, that the greatest part of them were either Imbezzeled by the Sub-Commissioners of Forfeitures, or the Collectors of the Revenue, or else plundered by the Army at their return into Winter Quar<g ref="char:EOLhyphen"/>ters; so that it does not appear to us, that there ever was accounted for to His Majesty, above the value 44000 <hi>l.</hi> Besides these, there were great Quan<g ref="char:EOLhyphen"/>ties of other Goods appeared in the Inquisitions, which we do not find ever came to His Majesty's use; and many more were seized by private Men. In<g ref="char:EOLhyphen"/>deed the Plunder at that time was so general, that some men in considerable Employments were not free from it; which seems to us a great reason why this matter has not been more narrowly searched into. Particularly, the Lord <hi>Coningsby</hi> seized a great many Black Cattle, to the number of 300, or there<g ref="char:EOLhyphen"/>abouts, besides Horses, which were left in the Park after the Battel of the <hi>Boyne,</hi> and which we do not find were ever accounted for to His Majesty: He also seized all the Plate and Goods in the House of Sir <hi>Michael Creagh,</hi> Lord Mayor of <hi>Dublin</hi> for the Year 1689, which are generally thought to amount to a great Value: But this last is said to be by Grant from His Majesty. There were se<g ref="char:EOLhyphen"/>veral Rich Goods and other Houshold-stuff delivered by the Commissioners of the Revenue to the then Lords Justices, the Lord <hi>Sidney</hi> and Lord <hi>Coningsby,</hi> which we do not find were ever returned, accounted for to His Majesty, or left in the Castle at their departure from the Government.</p>
+            <p n="67">67. Farther, there were several other Quantities of Goods delivered by Order of the said Commissioners of the Revenue to Sir <hi>Charles Porter,</hi> Major-General <hi>Kirk,</hi> and others, which have not been returned; and a great deal more taken by the General Officers of the Army; which it's said His Majesty hath since discharged.</p>
+            <p n="68">68. If we may believe the general Reports of the Country, very many Per<g ref="char:EOLhyphen"/>sons have made their Advantages of these Forfeitures; but the Time was so distant, the Proofs so difficult, and withal the Hopes of getting any part of them back again so remote, that we rather chose to prosecute more material Enquiries; therefore can give Your Honours no further Information concern<g ref="char:EOLhyphen"/>ing them.</p>
+            <p n="69">69. But since the Values of the before-mention'd Goods and Chattels are so uncertain, we make no Estimate thereof; but will proceed to take notice of some Debts by Judgment and Statute, and a few Mortgages due to Forfeiting Per<g ref="char:EOLhyphen"/>sons, not restored, which amount to <hi>120013l. 13s. 10d.</hi> as appears in a Book delivered in with this Report, N<seg rend="sup">o</seg> 8.</p>
+            <p n="70">
+               <pb n="17" facs="tcp:44159:9"/>70. And here it may be observed, That these Debts are liable to all the Objections made against the Incumbrances before-mentioned; only with this difference, That as the Incumbrances may be presumed to be in a great measure satisfied by the Perception of Profits, the Creditors being many of them in Possession, pursuant to Her late Majesty's Letter in Favour of Protestant Cre<g ref="char:EOLhyphen"/>ditors, or at least that the full Interest thereof has been paid out of the Rents, so in the other, the full Penalty is due, no Interest appearing to be paid since the Forfeiture; and therefore we humbly conceive may be taken as so much in Discompt, against Incumbrances.</p>
+            <p n="71">71. And here we crave leave further to observe, That almost all the said Judgments were found in the <hi>Court of Exchequer</hi> only: And that from a Mistake of our Orders, no return has been made from either of the other Courts of Law; by which means we believe many more Debts appearing on Record to be due to Forfeiting Persons not restored, may be omitted.</p>
+            <p n="72">72. There are yet to be computed 297 Houses in the City of <hi>Dublin,</hi> 36 Houses in the City of <hi>Cork,</hi> with 226 Houses situate in the several Cities and Towns of this Kingdom; together with 61 Mills, 28 Fairs and Markets, 72 Rectories and Tythes, chief Rents amounting to 238 <hi>l. per Ann.</hi> and 6 Ferries and Fisheries, lying within the several Counties and Baronies of this King<g ref="char:EOLhyphen"/>dom, the Forfeitures of Persons not restored; which we value in gross at 50000 <hi>l.</hi> and place here among the Personal Forfeitures, towards the discharge of Incumbrances: And if we add the Debts due to Forfeiting Persons, (as we humbly conceive) 'twill fully discharge the Incumbrances aforesaid. And if there were room to apprehend any Deficiency, yet the Chattels real of Per<g ref="char:EOLhyphen"/>sons comprehended within the Articles of <hi>Lymerick,</hi> which by the Constru<g ref="char:EOLhyphen"/>ction of the said Articles they were not to be restored to, would fully (as we apprehend) make up any defect that might remain after the Allowances aforesaid.</p>
+            <p n="73">73. It appeared to us by our Observations in the Countrey, That a great part of the Lands called Unprofitable in the Surveys (except those in <hi>Kerry,</hi> which we account as nothing) are now Profitable Acres, and many of them as good as any Lands in the Kingdom; and though they are not comprehend<g ref="char:EOLhyphen"/>ed within our Valuations, yet are in themselves considerable.</p>
+            <p n="74">74. We have computed the Forfeited Estates according to the present Va<g ref="char:EOLhyphen"/>lues, and the currant Price of Coin here, were they now to be set, without any regard to Beneficial Leases made before the Forfeitures: And because we found it impossible either to come to a reasonable knowledge of the num<g ref="char:EOLhyphen"/>ber of them, and which are real, or fraudulently set up, we think it most proper to make a general Allowance for the same, by way of Discompt on other particulars; and if all the Unprofitable Acres be cast in, it may near answer the Difference of Value the now Beneficial Leases do make, from the present Intrinsick Value, exclusive of them.</p>
+            <p n="75">75. And lest this Allowance should be thought insufficient, we humbly con<g ref="char:EOLhyphen"/>ceive the Woods of this Kingdom now standing on the Forseited Estates, not restored, may be worth Sixty Thousand Pounds; which we believe (if thrown in) will answer the Difference; provided some speedy Care be taken to pre<g ref="char:EOLhyphen"/>vent further Waste.</p>
+            <p n="76">76. But least our Allowances on the particulars aforesaid, should not be esteemed sufficient, we throw in all Denominations of Lands, to which we
+<pb n="18" facs="tcp:44159:10"/> could annex no number of Acres, not receiving any Light either by the Sur<g ref="char:EOLhyphen"/>veys, Commissioners Books, Inquisitions, or our Enquiries in the Countrey; and because they are quantities of Lands that vastly differ from one another, both in Value and Number of Acres, we can set no certain Estimate upon them; though it seems very probable to us, that they amount to at least Seventy or Eighty Thousand Acres; which we humbly conceive will much more than answer all the Deficiencies before mentioned.</p>
+            <p n="77">77. And here we shall take notice of the General Waste committed on the Forfeited Woods of this Kingdom; particularly on the Woods of Sir <hi>Valentine Brown,</hi> in the County of <hi>Kerry;</hi> where the Value of Twenty Thousand Pounds has been Cut down and Destroyed. And the Waste made on the Woods of the late Earl of <hi>Clancharty</hi>'s Estate, now in Grant to the Lord <hi>Woodstock,</hi> is com<g ref="char:EOLhyphen"/>puted at Twenty Seven Thousand Pounds. And indeed so hasty have seve<g ref="char:EOLhyphen"/>ral of the Grantees or their Agents been in the disposition of the Forfeited Woods, that vast Numbers of Trees have been Cut and Sold for not above Six pence a piece; and the like Waste is still continuing in many Parts of this Kingdom; and particularly at this Instant, the Right Honourable Sir <hi>John Hely,</hi> Lord Chief Justice of the Court of Common-Pleas here, and <hi>Peter Goodwyn,</hi> Joynt Purchasers of the Lands of <hi>Feltrim,</hi> within 6 Miles of <hi>Dublin,</hi> of the Right Honourable the Lord <hi>Coningsby,</hi> are now cutting down the very Ornamental Rows and Groves about the Mansion-house. Great Waste hath been made, and yet is committing on the Woods of <hi>Oshogness</hi> in the County of <hi>Gallway,</hi> purchased by <hi>Toby Butler</hi> Esq; for about <hi>2500l.</hi> which is valued to above <hi>12000l.</hi> And when we appointed some Persons to View and Value the said Woods, the said <hi>Toby Butler</hi> did prosecute several of them by Indictment for so doing.</p>
+            <p n="78">78. Besides all the Forfeitures before mentioned, there are great Numbers of Persons Guilty of the late Rebellion, and within no Articles, and never pro<g ref="char:EOLhyphen"/>secuted; and very many have appeared on the Exigent, which to this day are continued under Bail; and some of them were this last Summer-Assizes Tryed and Acquitted. And indeed it does appear to Us that the Freeholders of this Kingdom, through length of time, and by contracting new Friendship with the <hi>Irish;</hi> or by Inter-purchasing with one another, but chiefly through a ge<g ref="char:EOLhyphen"/>neral dislike of the disposition of the Forfeitures, are scarce willing to find a<g ref="char:EOLhyphen"/>ny Persons Guilty of the late Rebellion, even upon full Evidence.</p>
+            <p n="79">79. By reason of this delay of Prosecution, many good Estates by the Death of Parties have been lost to his Majesty.</p>
+            <p n="80">80. And notwithstanding all this, it seems probable by the multitude of Discoveries offered us, that if right methods were taken, and proper En<g ref="char:EOLhyphen"/>couragements given, a great Sum of Money might be yet raised out of the Forfeitures that lye Concealed.</p>
+            <p n="81">81. There has been so great a neglect in the Prosecution of the King's Title, that no Inquisitions went into <hi>Connaught,</hi> till the Year 1695. Which gave the Forfeiting Persons time and leisure to set up what Incumbrances they pleased. And when they were Issued, the Findings were almost as the Council of the Forfeiting Persons pleased: and indeed by the great dispro<g ref="char:EOLhyphen"/>portion of Protestants to Popists, which is computed at not one to fifty, and so very few Protestant Freeholders within most Counties of that Province, and so little Justice to be had there, that the Province it self seems scarcely re<g ref="char:EOLhyphen"/>duced to His Majesty's Obedience. A late Instance might be given, at the
+<pb n="19" facs="tcp:44159:10"/> last Assizes for the County of <hi>Gallway,</hi> where near Forty Persons were brought on their Trials for the late Rebellion, and the Majority of the Jury that had them in charge, were Officers in the late King <hi>James</hi>'s Army, and adjudged within Articles; and after that, 'twere needless to say they were all acquitted: though by accident 'twas discovered, that Mr. <hi>Kirevan,</hi> one of the Persons then on Trial, was in actual Rebellion, and an Officer under the Foreman of the Jury, who was sworn to that Fact; which was a surprizing Difficulty to the Jury, who not well knowing how to acquit him upon so direct a Proof, resolved that the Dice should determine; and so the Jury amongst themselves threw the Dice who should absent himself; and the Lot falling on one Mr. <hi>Pendergast,</hi> he did absent himself accordingly; and so no Verdict was given on the said Mr. <hi>Kirevan,</hi> who was thereupon bound over to appear the next As<g ref="char:EOLhyphen"/>sizes at <hi>Gallway,</hi> to take his Trial.</p>
+            <p n="82">82. The House of <hi>Clanrickard</hi> have a Vast Territory within that Province, with few or no Protestant Tenants thereon; the greatest part whereof by the Attainder of the Lord <hi>Bophin</hi> (who is only Tenant for life) is now vested in His Majesty: and we humbly Conceive if proper Methods were now taken for selling the said Estate to Protestant Tenants, by Leases for Lives, renewable for ever, 'twould greatly Increase the Freeholders, and thereby secure the Pro<g ref="char:EOLhyphen"/>perty, and advance the Protestant Interest of that Province.</p>
+            <p n="83">83. In the next place we humbly acquaint your Honours, That several of the Grantees have raised great Sums of Money by Sale of their Lands and E<g ref="char:EOLhyphen"/>states, in the whole amounting to the Sum of Sixty Eight Thousand One Hun<g ref="char:EOLhyphen"/>dred Fifty Five Pounds, Three Shillings, and One Penny, as does hereafter more particularly appear; (<hi>viz.</hi>) The Right Honourable the Earl of <hi>Athlone</hi> has sold to several Persons, so much of his Grants as amounts to the Sum of Se<g ref="char:EOLhyphen"/>venteen Thousand Six Hundred Eighty Four Pounds, Twelve Shillings; and we think we ought to take notice, that the Lord <hi>Athlone</hi>'s Grants are con<g ref="char:EOLhyphen"/>firmed by an Act of the Parliament of <hi>Ireland.</hi> The Right Honourable the Earl of <hi>Rumney</hi> hath sold so much of his Grants, as amounts to Thirty Thousand One Hundred Forty Seven Pounds, Eleven Shillings, and one Penny, of which Five Thousand Three Hundred Twenty Three Pounds, Fourteen Shillings, and Seven Pence, remains unpaid in the Purchasers hands. The Right Ho<g ref="char:EOLhyphen"/>nourable the Earl of <hi>Albemarle,</hi> hath received Thirteen Thousand Pounds in <hi>England</hi> by Sale of part of his Grant. The Right Honourable the Lord <hi>Co<g ref="char:EOLhyphen"/>ningsby</hi> hath sold to the Value of Two Thousand Two Hundred Pounds. And <hi>Thomas Keightly</hi> Esq; hath sold and Received to the Value of Five Thousand One Hundred Twenty Three Pounds, Ten Shillings: Amounting in the whole to the said Sum of <hi>68155l. 3s. 1d.</hi>
+            </p>
+            <p n="84">84. We are also to acquaint your Honours, That there have been several Proclamations, and other publick Assurances given, that a Fourth part should be granted to such as should discover any concealed Forfeitures. To some of the Discoverers Grants have been made, and they appear in the Book of Grants, Number 6. and others affirm they have not yet received satis<g ref="char:EOLhyphen"/>faction; the whole We believe are under the Value of 2000 <hi>l. per Ann.</hi>
+            </p>
+            <p n="85">85. And here we may take notice, that the Forfeitures in General, not<g ref="char:EOLhyphen"/>withstanding they appear to be so Considerable, have been rather a Charge than profit to his Majesty; Which might seem very Extraordinary, if we did not acquaint your Honours, that many obscure Men, that had little or
+<pb n="20" facs="tcp:44159:11"/> nothing since the Reduction of <hi>Ireland,</hi> are now reputed Masters of Consi<g ref="char:EOLhyphen"/>derable Estates, and some of them very great ones; nor does there appear any visible Cause of their acquiring such sudden Riches, but by fishing in these Forfeitures; indeed the whole Management has been so Intricate, as it were design'd to be kept a Mystery; which has proved sufficiently Ad<g ref="char:EOLhyphen"/>vantagious to these Men, though much to His Majesty's Detriment, who by this means has been deceived in the Value of His Grants, and in many Cases has given much more than he intended.</p>
+            <p n="86">86. There is nothing seems to us to have contributed more to it than the letting the Forfeited Lands by Cant in the City of <hi>Dublin,</hi> and not in the se<g ref="char:EOLhyphen"/>veral Counties of this Kingdom; for by that means very few persons would come to Town at a great Charge, and neglect of their Affairs, when they were sure to be out-bid by the Agents to Great Men, who aimed only to get into Possession, and had Interest enough afterwards to have all or most part of the Rents remitted. Upon this Consideration Mr. Attorney General and Mr. <hi>William Connelly</hi> Esq; canted Lands in the County of <hi>Kilkerney,</hi> worth about 200 <hi>l. per Annum,</hi> to more than 20000 <hi>l. per Ann.</hi> So that private Persons, who had no interest, found it in vain to contend; besides, they were over-aw'd by the Authority often of those that bid against them; which weighs much in this Country.</p>
+            <p n="87">87. By these Methods, when others were driven off the Stage, they took the Lands at their own Rates; oftentimes, as we conceive, agreeing not to bid one against another: Particularly the Honourable <hi>Thomas Broderick</hi> Esq; and the said <hi>William Connelly,</hi> who took vast Quantities of Lands, and in a great measure governed the Cants, (few persons daring to bid against them) acted in partnership in all they took in the Year 1695, and ever since; and Let it afterwards to Under-Tenants at greater Rents: Which is the more observable in Mr. <hi>Broderick,</hi> who then was a Privy-Counsellor, and appointed by the Lord <hi>Capell</hi> to inspect the Cants, having been informed they were managed much to His Majesty's disadvantage.</p>
+            <p n="88">88. Nor could it be expected they should be better regulated, when many of the immediate Officers of the Revenue took Parcels of these Lands, and some were taken in trust for the very Commissioners themselves. Particularly, the Lands of <hi>Kerdiffs</hi> Town were Let to <hi>Henry Fernley,</hi> who was a Nominal Person in Trust for Mr. <hi>Culliford,</hi> at Thirty One Pounds, Sixteen Shillings, <hi>per Ann.</hi> though actually canted at Eighty Four Pounds. Several other For<g ref="char:EOLhyphen"/>feited Lands were taken by Mr <hi>Culliford,</hi> and great quantities of Goods Seiz<g ref="char:EOLhyphen"/>ed by him to His Majesty's Use, which he afterwards cenverted to his own Use.</p>
+            <p n="89">89. Besides the great Abuses in the managment of their Cants, We humbly represent to your Honours one instance of a Considerable Estate, that was let without any Cant at all, by Direction of the Lords Justices, for at least One Thousand Pounds <hi>per Annum</hi> less than it was then worth, and for a Term of Sixty One Years, (though by a Letter from His Majesty, dated the 8th Day of <hi>March</hi> 1698, they were commanded to let it for a Term not exceed<g ref="char:EOLhyphen"/>ing One and Twenty Years) and at a time too, when there was a Term of One Year and half unexpired in another Tenant: This is a Lease of the Estates of Sir <hi>Valentine Brown,</hi> and <hi>Nicholas Brown,</hi> commonly called Lord Viscount <hi>Kenmare,</hi> within the Counties of <hi>Kerry</hi> and <hi>Lymerick,</hi> made to <hi>John Blener<g ref="char:EOLhyphen"/>hasset</hi> and <hi>George Rogers;</hi> Esquires then Members of Parliament of this Kingdom.</p>
+            <p n="90">
+               <pb n="21" facs="tcp:44159:11"/>90. Having already laid before your Honours the most material parts of our Enquiry, We now crave leave to make a short Abstract of our Valuations, before we conclude our Report.</p>
+            <p>The whole Forfeited Estates, since the 13th day of <hi>February</hi> 1688, We va<g ref="char:EOLhyphen"/>lue at 2685130 <hi>l. 5s. 9d.</hi>
+            </p>
+            <p>The Estates restored by Articles, We value at 724923 <hi>l. 4 s. 6 d.</hi>
+            </p>
+            <p>The Estates restored by Favour, We value at 260863 <hi>l. 7 s. 3d.</hi>
+            </p>
+            <p>The Debts affecting the Estates forfeited, and found by Inquisitions, or allowed by Order of the Exchequer, we compute at 161936 <hi>l. 15 s. 6 d.</hi>
+            </p>
+            <p>Against which we balance the Debts due to Forfeiting Persons not restored, amounting to 120013 <hi>l. 13 s. 10. d.</hi> as also all Houses, Tithes, Mills, Fairs, Markets, chief Rents, and Ferries, worth about 50000 <hi>l.</hi>
+            </p>
+            <p>Against the beneficial Leases we balance all the Acres called Unprofitable; and also all the Woods yet standing upon the Forfeited Estates, which we compute may be worth about 60000 <hi>l.</hi> and the Chattels real of Persons adjudg<g ref="char:EOLhyphen"/>ed within Articles, hitherto never brought to any account.</p>
+            <p>But least our Allowances should not be thought sufficient, we throw in all Denominations of Lands that have no Acres annext to them, which we can<g ref="char:EOLhyphen"/>not believe will amount to less than Seventy or Eighty Thousand Acres; and consequently, if valued in proportion with other Lands, will come to at least 140000 <hi>l.</hi>
+            </p>
+            <p>The Estates yet undiscovered seem to us very Considerable, but can make no probable Valuation of them.</p>
+            <p>The Sums received by the Grantees, from the Seal of their Estates, amount to the Sum of 68155 <hi>l. 3 s. 1 d.</hi>
+            </p>
+            <p>We have taken no notice of any Debts due to Forfeiting Persons restored, or of any Incumbrances affecting their Estates.</p>
+            <p>And after the several Allowances before-mentioned, there yet remains 1699343 <hi>l. 14 s.</hi> which we Humbly lay before your Honours as the Gross Value of all the Estates forfeited since the 13th day of <hi>February</hi> 1688, and not restored.</p>
+            <p>We shall now conclude our Report, by laying before your Honours another Grant of a Considerable Value, which we are apprehensive does not fall with<g ref="char:EOLhyphen"/>in the Letter of our Enquiry: But since the benefit of some forfeited Leases or Holdings are therein granted, we chose rather to lay the whole Grant be<g ref="char:EOLhyphen"/>fore you, than be thought deficient in executing any part of our Duty, or what might be expected from us.</p>
+            <p>A Grant under the Great Seal of <hi>Ireland,</hi> dated the 30th day of <hi>May</hi> 1695, passed to Mrs. <hi>Elizabeth Villiers,</hi> now Countess of <hi>Orkney,</hi> of all the private Estates of the late King <hi>James</hi> (except some small part in Grant to the Lord <hi>Athlone</hi>) containing 95649 Acres, worth <hi>per Annum</hi> 25995 <hi>l. 18 s.</hi> Value Total 337943 <hi>l. 9 s.</hi> The Particulars whereof (<hi>viz.</hi>) the Number of Acres in each County and Barony, the Value <hi>per Annum,</hi> and Value Total, appear in a Book delivered in with this Report, N<seg rend="sup">o</seg> 9.</p>
+            <p>There is payable out of this Estate Two Thousand Pounds <hi>per Annum</hi> to the Lady <hi>Susannah Bellasis</hi> for her Life; and also One Thousand Pounds <hi>per Annum</hi> to Mrs. <hi>Godfrey</hi> for her Life; and almost all the old Leases determine in <hi>May</hi> 1701; and then this Estate will answer the Values above mentioned.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>DUBLIN.</item>
+                     <item>Fra. Annesley.</item>
+                     <item>John Trenchard.</item>
+                     <item>James Hamilton.</item>
+                     <item>Hen. Langford.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="resolution">
+            <pb n="22" facs="tcp:44159:12"/>
+            <head>Veneris 4 Die Aprilis. 2 Guliel. &amp; Mariae. 1690.</head>
+            <opener>Resolved,</opener>
+            <p>THat a Bill be brought in to Attaint all Persons guilty of Rebellion in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> or elsewhere, against Their Majesties King <hi>William</hi> and Queen <hi>Mary;</hi> and to Enact and Declare their Estates to be Forfeited, and to be Sold for the Reducing of <hi>Ireland.</hi> And it is Recommended to Mr. Solicitor-General, Mr. Serjeant <hi>Trenchard,</hi> Sir <hi>Richard Reynell,</hi> Sir <hi>Thomas Clarges,</hi> Sir <hi>William Poultney,</hi> and Colonel <hi>Birch,</hi> or any Three of them, to take Care thereof.</p>
+         </div>
+         <div type="speech">
+            <head>Lunae 5 Die Januarii. 2 Guliel. &amp; Mariae. 1690.</head>
+            <head type="sub">His Majesty's Gracious Speech to both Houses of Parliament.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>HAving lately told you, That it would be Necessary for Me to go into</hi> Holland <hi>much about this time, I am very glad to find that the Success of your Endeavours to bring this Session to a happy Conclusion, has been such, that I am now at Liberty to do it. And I return you my Hearty Thanks for the great Dispatch you have made in Finishing the Supplies you have Designed for carrying on the War: Which it shall be My Care, to see duly and punctually Applied to that Service for which you have given them. And I do likewise think it proper to Assure You, that I shall not make any Grant of the Forfeited Lands in</hi> England <hi>or</hi> Ireland, <hi>till there be another Opportunity of Sett<g ref="char:EOLhyphen"/>ling that Matter in Parliament in such Manner as shall be thought most Expedient.</hi>
+            </p>
+            <p>My Lords and Gentlemen,</p>
+            <p>
+               <hi>As I have reason to be very well satisfied with the Proofs You have given Me of your Good Affection in this Session of Parliament, so I promise My Self the continuance of the same at Your Return into Your several Countries. And as every day produces still Fresh Instances of the Restlessness of our Enemies both at Home and Abroad, in de<g ref="char:EOLhyphen"/>signing against the Prosperity of this Nation, and the Government Established; so I do not doubt but that the Union and good Correspondence between Me and My Parlia<g ref="char:EOLhyphen"/>ment, and My Earnest and Constant Endeavours for your Preservation on the one Hand, joined with the continuance of Your Zeal and Affection to Support Me on the Other, will by the Blessing of God be at all times too strong for the utmost Malice and Contrivance of our Common Enemies.</hi>
+            </p>
+         </div>
+         <div type="address">
+            <head>Sabbati 4 Die Martii. 5 Guliel. &amp; Mariae. 1692.</head>
+            <head type="sub">The Humble Address of the House of Commons to His Majesty.</head>
+            <p>
+               <hi>WE Your Majesties most Dutiful and Loyal Subjects, the Commons in Parliament Assembled, having taken into our serious Consideration the State of your Majesty's Kingdom of</hi> Ireland, <hi>find our Selves Obliged by our Duty to Your Majesty, with all Faithfulness and Zeal to Your Service, to lay before Your Majesty the great Abuses and Mismanagements of the Affairs of that Kingdom:</hi>
+            </p>
+            <p>
+               <hi>By Exposing Your Protestant Subjects to the Misery of Free Quarter, and the Li<g ref="char:EOLhyphen"/>centiousness of the Soldiers, to the great Oppression of the People there; which we con<g ref="char:EOLhyphen"/>ceive hath been Occasioned chiefly by the Want of that Pay which we did hope we had fully provided for.</hi>
+            </p>
+            <pb n="23" facs="tcp:44159:12"/>
+            <p>
+               <hi>By recruiting Your Majesty's Troops with</hi> Irish <hi>Papists, and such Persons who were in Open Rebellion against You; to the grrat Endangering and Discouraging of Your Majesty's good and loyal Protestant Subjects in that Kingdom.</hi>
+            </p>
+            <p>
+               <hi>By granting Protections to</hi> Irish <hi>Papists; whereby Protestants are hindred from their Legal Remedies, and the Course of Law is Stopt.</hi>
+            </p>
+            <p>
+               <hi>By Reversing Outlawries for High Treason against several Rebels in that Kingdom (not within the Articles of</hi> Lymerick) <hi>to the great discontent of Your Protestant Subjects there.</hi>
+            </p>
+            <p>
+               <hi>By letting the Forfeited Estates at under-Rates, to the lessening of your Majesty's Revenue.</hi>
+            </p>
+            <p>
+               <hi>By the great Imbezzlements of Your Majesty's Stores in the Towns and Garrisons of that Kingdom, left by the late King</hi> James.</p>
+            <p>
+               <hi>And by the great Imbezzlements which have been made in the Forfeited Estates and Goods, which might have been imployed for the Safety and better Preservation of Your Majesty's Kingdom.</hi>
+            </p>
+            <p>
+               <hi>We crave leave also to represent to Your Majesty, that the Addition made to the Ar<g ref="char:EOLhyphen"/>ticles of</hi> Lymerick, <hi>after the same were finally Agreed to, Signed, and the Town there<g ref="char:EOLhyphen"/>upon surrendred, hath been a very great Encouragement to the</hi> Irish <hi>Papists, and a Weakning to the</hi> English <hi>Interest there.</hi>
+            </p>
+            <p>
+               <hi>Having thus, most Gracious Sovereign, out of Our Affectionate Zeal to Your Ma<g ref="char:EOLhyphen"/>jesty's Service, with all Humble Submission to Your Great Wisdom, laid before You these Abuses and Mismanagements in Your Kingdom of</hi> Ireland, <hi>We most Humbly Beseech Your Majesty for Redress thereof,</hi>
+            </p>
+            <p>
+               <hi>That the Soldiers may be paid their Arrears, and the Countrey what is due to them for Quarters; and that no</hi> Irish <hi>Papist may serve in Your Army there.</hi>
+            </p>
+            <p>
+               <hi>And forasmuch as the reducing of</hi> Ireland, <hi>hath been of great Expence to this Kingdom, We do also Humbly Beseech Your Majesty that (According to the Assurance Your Majesty hath been pleased to give us) No Grant may be made of the Forfeited Lands in</hi> Ireland, <hi>till there be an Opportunity of Setling that Matter in Parliament in such Manner, as shall be thought most Expedient.</hi>
+            </p>
+            <p>
+               <hi>That a true Account of the Escheats and Forfeited Estates both Real and Personal, and Stores left by the late King</hi> James, <hi>may be laid before Your Commons in Parlia<g ref="char:EOLhyphen"/>ment, to the end that the said Escheats, Forfeitures, and Stores, and the Imbezzle<g ref="char:EOLhyphen"/>ments thereof, may be enquired into.</hi>
+            </p>
+            <p>
+               <hi>That no Outlawries of any Rebels in</hi> Ireland, <hi>may be Reversed, or Pardons Granted to them, but by Advice of Your Parliament; and that no Protection may be granted to any</hi> Irish <hi>Papist, to stop the Course of Justice.</hi>
+            </p>
+            <p>
+               <hi>And as to the Additional Article which opens so Wide a Passage to the</hi> Irish <hi>Pa<g ref="char:EOLhyphen"/>pists to come in and repossess themselves of the Estates which they had Forfeited by their Rebellion, We most Humbly Beseech Your Majesty, That the Articles of</hi> Lyme<g ref="char:EOLhyphen"/>rick, <hi>with the said Addition, may be laid before Your Commons in Parliament, that the manner of Obtaining the same may be enquired into: To the End it may Appear by what means the said Articles were so Enlarged, and to what Value the Estates thereby Claimed do amount.</hi>
+            </p>
+            <p>
+               <hi>Thus, may it Please Your Majesty, We Your Dutiful and Loyal Subjects, do lay these Matters in all Humility before You; and as Your Majesty hath been Pleased to give us such Gracious Assurances of Your Readiness to comply with us in any thing that may tend to the Peace and Security of this Kingdom, We doubt not of Your Ma<g ref="char:EOLhyphen"/>jesty's like Grace and Favour to that of</hi> Ireland; <hi>in the Safety and Preservation whereof, this Your Majesty's Kingdom is so much concerned.</hi>
+            </p>
+         </div>
+         <div type="answer">
+            <pb n="24" facs="tcp:44159:13"/>
+            <head>Veneris 10 die Martii. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Guliel. &amp; Mariae. 1692.</head>
+            <head type="sub">His Majesty's Gracious Answer.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Shall always have great Consideration of what comes from the House of Commons; and I shall take great Care, That what is amiss shall be remedied.</p>
+         </div>
+         <div type="resolution">
+            <head>Jovis 18 die Januarii. 11 Gulielmi. 1699.</head>
+            <opener>Resolved,</opener>
+            <p>THat the Advising, Procuring, and Passing the Grants of the Forfeited and other Estates in <hi>Ireland,</hi> hath been the Occasion of contracting great Debts upon the Nation, and laying heavy Taxes on the People.</p>
+            <p>
+               <hi>Resolved,</hi>
+            </p>
+            <p>That the Advising and passing the said Grants, is highly reflecting on the King's Honour: And the Officers and Instruments concerned in the Procuring and Passing these Grants, have highly failed in the Performance of their Trust and Duty.</p>
+         </div>
+         <div type="resolution">
+            <head>Jovis 15 die Februarii. 12. Gulielmi. 1699.</head>
+            <opener>REsolved,</opener>
+            <p>That an Humble Address be presented to His Majesty, represent<g ref="char:EOLhyphen"/>ing to Him the Resolutions of this House of the 18th of <hi>January</hi> last, re<g ref="char:EOLhyphen"/>lating to the Grants of the Forfeited Estates in <hi>Ireland.</hi>
+            </p>
+         </div>
+         <div type="answer">
+            <head>Lunae 26 die Februarii. 12 Gulielmi. 1699.</head>
+            <head type="sub">His Majesty's Answer.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I <hi>Was not only led by Inclination, but thought My Self obliged in Justice to Re<g ref="char:EOLhyphen"/>ward those who had Served well, and particularly in the Reduction of</hi> Ireland, <hi>out of the Estates Forfeited to Me by the Rebellion there.</hi>
+            </p>
+            <p>
+               <hi>The long War in which We were Engaged, did occasion great Taxes, and has left the Nation much in Debt: And the taking Just and Effectual Ways for lessening that Debt, and Supporting Publick Credit, is what in my Opinion will best contribute to the Honour, Interest, and Security of the Kingdom.</hi>
+            </p>
+         </div>
+         <div type="resolution">
+            <opener>Resolved,</opener>
+            <p>THat whosoever Advised His Majesty's Answer to the Address of this House, presented to this House on <hi>Wednesday</hi> last, has used his utmost Endea<g ref="char:EOLhyphen"/>vour to create a Misunderstanding and Jealousy between the King and His People.</p>
+         </div>
+         <div type="appointment">
+            <p>
+               <hi>BY Vertue of several Orders of the</hi> House of Commons, <hi>I do Appoint</hi> Edward Jones, <hi>and</hi> Timothy Goodwin, <hi>to Print this Report, together with the Reso<g ref="char:EOLhyphen"/>lutions, Addresses to His Majesty, His Majesty's Answers thereunto, and His Majesty's Speech before-mention'd; and that no other Person presume to Print the same.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>April 9. 1700.</date>
+               </dateline>
+               <signed>THO. LITTLETON, <hi>Speaker.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
